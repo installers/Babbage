@@ -9,7 +9,7 @@ I used to program PHP in .mag files.... then I found bash.
 
 to install the bankonmeOS developer edition you still have to use the command line
 $ sudo apt-get install git
-$ git clone 
+$ git clone https://github.com/bankonmeOS/Babbage.git
 $ chmod +x bankonme.mag
 $ sudo ./bankonme.mag
 
