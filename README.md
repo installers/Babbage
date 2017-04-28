@@ -19,7 +19,7 @@ $ chmod +x bankonme.mag
 
 $ sudo ./bankonme.mag
 
- I am working on the permissions and am not a fan of blasting this whole thing in as sudo root. However, this is the developer edition. If you have a ton of cryptocurrency you need a computer that is NOT connected to the Internet and create a paper wallet and put that paper in a safe. Lose the passphrase lose the money. I am proving that as I chase down 3.0 Zcash that I picked up in the early days. Really!!! Web Wallets are not safe and two mining companies have screwed me so far.
+ I am working on the permissions and am not a fan of blasting this whole thing in as sudo root. However, this is the developer edition. If you have a ton of cryptocurrency you need a computer that is NOT connected to the Internet and create a paper wallet and put that paper in a safe or safe place. Lose the passphrase lose the money. I am proving that as I chase down 3.0 Zcash that I picked up in the early days. Really!!! Web Wallets are not safe and two mining companies have screwed me so far.
  
  Use this Javascript Wallet creator 
  
