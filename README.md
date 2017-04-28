@@ -5,7 +5,8 @@ It has been decided that each and every release of the bankonmeOS developer edit
 I am releasing what may be the first .mag file into the wild.
 
 *.mag files are an extension released under the MIT license.
-*.mag (c) 2017 Gregory L. Magnusson
+
+*.mag (c) 2011,2012,2013,2014,2015,2016,2017 Gregory L. Magnusson MIT license
 
 I used to program PHP in .mag files.... then I found bash.
 
