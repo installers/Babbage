@@ -1,12 +1,15 @@
 # Babbage
 bankonmeOS source code builder version 2
-It has been decided that each and every release of the bankonmeOS developer edition will proceed along the alphabet using the last name of famous philospers in the release title. Charles Babbage did his part to make the mechanical computer a reality. Of course I learned a little more about bash this round... and added the first if then statement for user interaction. I am about to test this out on a fresh install of Ubuntu 16.04LTS. The bankonmeOS project goal is simple... to protect cryptocurrency from malice. I shortened the name of the file and might regret this later. Likely will have to date stamp the file for future releases. For now... version two is released in the raw with the added bonus of including Zcash and Bitsquare. Bitsquare is improving. You can bankon.me
+It has been decided that each and every release of the bankonmeOS developer edition will proceed along the alphabet using the last name of famous philospers in the release title. Charles Babbage did his part to make the mechanical computer a reality. Of course I learned a little more about bash this round... and added the first if/then statement for user interaction. I am about to test this out on a fresh install of Ubuntu 16.04LTS. The bankonmeOS project goal is simple... to protect cryptocurrency from malice. I shortened the name of the file and might regret this later. Likely will have to date stamp the file for future releases. For now... version two is released in the raw with the added bonus of including Zcash and Bitsquare. Bitsquare is improving. You can bankon.me
+
 I am releasing what may be the first .mag file into the wild.
 *.mag files are an extension released under the MIT license.
 *.mag (c) Gregory L. Magnusson
 I used to program PHP in .mag files.... then I found bash.
-to install you still have to use the command line
 
+to install the bankonmeOS developer edition you still have to use the command line
+$ sudo apt-get install git
+$ git clone 
 $ chmod +x bankonme.mag
 $ sudo ./bankonme.mag
 
