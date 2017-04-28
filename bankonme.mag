@@ -1,8 +1,9 @@
 #/bin/bash
+# BankonmeOS (c) Gregory L. Magnusson MIT license 170110
 # updated 170428
 echo you can bankon.me
 echo tested on Ubuntu16.04LTSamd64 bankonme.mag developer edition bash script installer for Bitcoin-core, Litecoin-core, Dash-core, Namecoin-core, Zcash and Armory 
-echo BankonmeOS (c) Gregory L. Magnusson MIT license 170110
+echo 
 # note... mate desktop is not important... Ubunutu 16.04LTS might be... Debian variants are as yet untested
 # INSTALL PROCEDURE tested on Ubuntu 16.04LTS
 # $ cd aristotle
